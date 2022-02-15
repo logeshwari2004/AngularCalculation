@@ -33,6 +33,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 index.html:
+```
 <!doctype html>
 <html lang="en">
 <head>
@@ -205,6 +206,7 @@ font-size: large;
   </div>
 
 </body>
+```
 
 
 
