@@ -218,3 +218,4 @@ Page with Calculated Result:
 
 
 ## Result:
+Thus a Mathmetical Calculation website is created using Angular.
